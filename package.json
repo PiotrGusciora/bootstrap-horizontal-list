@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-horizontal-list",
+  "version": "1.0.0",
+  "description": "Responsive Horizontal list built with Bootstrap 5. Horizontal lists are responsive components for displaying a series of content.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiotrGusciora/bootstrap-horizontal-list.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-horizontal-list",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiotrGusciora/bootstrap-horizontal-list/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/horizontal-list/"
+}
