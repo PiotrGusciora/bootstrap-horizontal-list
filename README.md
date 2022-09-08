@@ -73,11 +73,11 @@ ___
 ## More extended Bootstrap documentation
 
 <ul>
-<li><a href="https://mdbootstrap.com/docs/standard/extended/avatar/">Bootstrapstyle="min-width: 146px;"> Avatar</a></li>
+<li><a href="https://mdbootstrap.com/docs/standard/extended/avatar/">Bootstrap Avatar</a></li>
 
 <li><a href="https://mdbootstrap.com/docs/standard/components/list-group/">Bootstrap List Group</a></li>
 
-<li><a href="https://mdbootstrap.com/docs/standard/layout/grid/>Bootstrap> Grid system</a></li>
+<li><a href="https://mdbootstrap.com/docs/standard/layout/grid/">Bootstrap Grid system</a></li>
 
 <li><a href="https://mdbootstrap.com/docs/standard/components/alerts/">Bootstrap Alerts</a></li>
 
