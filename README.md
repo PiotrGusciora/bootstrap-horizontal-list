@@ -62,7 +62,7 @@ Check out [Bootstrap Horizontal list Documentation](https://mdbootstrap.com/docs
 ![Bootstrap 5 Horizontal list](/assets/links.png)](https://mdbootstrap.com/docs/standard/extended/horizontal-list/#section-links)
 
 [Bootstrap Horizontal list images - cards:
-![Bootstrap 5 Horizontal list](/assets/cards.png)](https://mdbootstrap.com/docs/standard/extended/horizontal-list/#subsection-cards)
+![Bootstrap 5 Horizontal list](/assets/images-cards.png)](https://mdbootstrap.com/docs/standard/extended/horizontal-list/#subsection-cards)
 
 [Bootstrap Horizontal list images With scroll:
 ![Bootstrap 5 Horizontal list](/assets/images-with-scroll.png)](https://mdbootstrap.com/docs/standard/extended/horizontal-list/#subsection-cards-with-scroll)
