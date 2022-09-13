@@ -4,7 +4,8 @@ Responsive Horizontal list built with Bootstrap 5. Horizontal lists are responsi
 Check out [Bootstrap Horizontal list Documentation](https://mdbootstrap.com/docs/standard/extended/horizontal-list/) for detailed instructions & even more examples.
 
 ## Basic example
-![Bootstrap Horizontal list:
+
+[Bootstrap Horizontal list:
 ![Bootstrap 5 Horizontal list](/assets/basic-example.png)](https://mdbootstrap.com/docs/standard/extended/horizontal-list/#section-basic-example)
 
 ```html
