@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PiotrGusciora/bootstrap-horizontal-list.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-horizontal-list.git"
   },
   "keywords": [
     "bootstrap",
@@ -22,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PiotrGusciora/bootstrap-horizontal-list/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-horizontal-list/issues"
   },
   "homepage": "https://mdbootstrap.com/docs/standard/extended/horizontal-list/"
 }
